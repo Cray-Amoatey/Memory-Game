@@ -71,7 +71,7 @@ body{
     padding-top: 0.5em;
 }
 
-#number_btn{
+.number_btn{
     height: 52px;
     width: 256px;
     background: #304859;
@@ -661,6 +661,12 @@ body{
 
 .winner2,.winner3,.winner4{
     background: #DFE7EC;
+}
+
+
+/* CRAY */
+.number_btn input {
+    display: none;
 }
 
 
